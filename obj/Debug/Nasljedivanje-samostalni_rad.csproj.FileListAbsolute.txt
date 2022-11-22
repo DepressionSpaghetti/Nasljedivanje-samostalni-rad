@@ -1,0 +1,8 @@
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje-samostalni_rad\bin\Debug\Nasljedivanje-samostalni_rad.exe.config
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje-samostalni_rad\bin\Debug\Nasljedivanje-samostalni_rad.exe
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje-samostalni_rad\bin\Debug\Nasljedivanje-samostalni_rad.pdb
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje-samostalni_rad\obj\Debug\Nasljedivanje-samostalni_rad.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje-samostalni_rad\obj\Debug\Nasljedivanje-samostalni_rad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje-samostalni_rad\obj\Debug\Nasljedivanje-samostalni_rad.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje-samostalni_rad\obj\Debug\Nasljedivanje-samostalni_rad.exe
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje-samostalni_rad\obj\Debug\Nasljedivanje-samostalni_rad.pdb
